@@ -8,25 +8,23 @@ This system is structured into three tiers, allowing you to choose the level of 
 
 ### 1. The Blueprint Tier (`/Blueprint`)
 
-The **Blueprint** tier provides the foundational framework of the content architecture system. It's designed for those who need minimal guidance and are comfortable with high-level strategic concepts.
+The **Blueprint** tier provides the foundational framework of the content architecture system. It's designed for those who need a clear roadmap and are comfortable with high-level strategic concepts.
 
-*   **What's Included**: For each of the 24 sections, you get a concise explanation of "What This Is" and "Why This Matters," along with a single, direct action sentence to guide your implementation.
+*   **What's Included**: A comprehensive ebook, access to the private Facebook community, and free lifetime updates.
 *   **Who It's For**: Experienced content strategists, seasoned marketers, or anyone who wants a strong strategic foundation without extensive hand-holding.
 
 ### 2. The System Tier (`/System`)
 
 The **System** tier offers a much more detailed and descriptive guide to implementing the content architecture. It's designed for users who want a thorough, step-by-step process to follow.
 
-*   **What's Included**: Includes all the content from the Blueprint tier, but expands the "Your Action Steps" for each section into descriptive 1-3 paragraphs that explain the required actions in much greater detail.
+*   **What's Included**: The complete ebook and a detailed digital workbook, plus access to the private Facebook group, an exclusive Substack newsletter, and free lifetime updates.
 *   **Who It's For**: In-house marketing teams, content managers, and solopreneurs who want a clear, repeatable system to execute.
 
 ### 3. The Toolkit Tier (`/Toolkit`)
 
 The **Toolkit** tier is the complete, "full hand-holding" package. It provides not just the strategy and the system, but all the tools and assets you need to execute with precision and efficiency.
 
-*   **What's Included**: Includes everything from the System tier, but enhances the "Your Action Steps" for each section into a comprehensive, three-part structure: a descriptive paragraph, a detailed task-list, and a success-metric conclusion paragraph. It also includes:
-    *   **Interactive Templates**: CSV versions of all spreadsheet-based templates for easy use in Google Sheets, Excel, or Airtable.
-    *   **Video Source Documents**: Detailed prompts and directives for each of the 24 sections, designed to be used with NoteBookLM to generate comprehensive video walkthroughs.
+*   **What's Included**: The ebook, workbook, Facebook group and Substack access, plus a complete set of interactive templates, downloadable spreadsheets, online tools, video walkthroughs for each module, and free lifetime updates.
 *   **Who It's For**: Marketing agencies, consultants, and teams who need a complete, turnkey solution for executing a sophisticated content strategy for themselves or their clients.
 
 ## Content Management

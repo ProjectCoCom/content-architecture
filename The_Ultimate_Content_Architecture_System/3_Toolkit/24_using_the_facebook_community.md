@@ -46,6 +46,8 @@ You are making progress when you feel like you are a part of the community. You 
 - **Weekly Participation:** 30-60 minutes
 
 The amount of time you spend in the community is up to you. However, we have found that the members who get the most value out of the community are the ones who make a habit of checking in on a regular basis and who actively participate in the conversation.
+
+> **Note for CMOs and Team Leads:** An active community is a powerful moat for your brand. It creates a network effect that makes your product more valuable over time. Encourage your team to participate, not as a marketing tactic, but as a genuine way to learn from and to support your best customers.
 ### Measuring Success
 You'll know your participation in the community is successful when you have a handful of "community friends" who you can reach out to for advice or for feedback. These are the people who you have built a real relationship with and who you can count on for support.
 
@@ -53,12 +55,14 @@ Another key success metric is the number of new ideas or new insights that you h
 
 Ultimately, the clearest sign of success is when you start to be seen as a leader in the community. When other people are tagging you in posts, asking for your opinion, and thanking you for your contributions, you'll know that you have become a truly valuable and respected member of the group.
 
+> **Perspective for Solo Consultants:** This community is your team. It's your place to find collaborators, to get feedback on your work, and to find the motivation to keep going when things get tough. Don't underestimate the power of a strong professional network.
+
 ### Deep Dive
-To take your community participation to the next level, consider starting a "mastermind" group with a few other members of the community. This is a small group of people who meet on a regular basis to support each other, to hold each other accountable, and to help each other to solve their biggest challenges.
+To take your community participation to the next level, consider starting a "mastermind" group with a few other members of the community. This is a small group of people who meet on a regular basis to support each other, to hold each other accountable, and to help each other to solve their biggest challenges. This is a powerful way to **incorporate multi-stakeholder perspectives** into your own strategic thinking.
 
-You can also use the community as a place to test out your content ideas. Before you invest a lot of time and effort into creating a new piece of content, you could post a short summary of the idea in the community and get feedback from the other members.
+You can also use the community as a place to test out your content ideas. Before you invest a lot of time and effort into creating a new piece of content, you could post a short summary of the idea in the community and get feedback from the other members. This is a form of **preemptive framing**, allowing you to address potential objections and to refine your message before you go to market.
 
-Finally, think about how you can use the community to collaborate with other members. You could co-author a blog post, you could host a joint webinar, or you could even partner on a new business venture. The possibilities are endless when you have a strong network of your peers.
+Finally, think about how you can use the community to collaborate with other members. You could co-author a blog post, you could host a joint webinar, or you could even partner on a new business venture. The possibilities are endless when you have a strong network of your peers. This is a way to **commit to assist** your peers, which is the foundation of a strong and reciprocal professional network.
 
 ### AI Collaboration
 Your AI agent can be a valuable assistant in helping you to be a more active and effective member of the community. Here are three prompts to get you started:
@@ -72,7 +76,10 @@ This community is our secret weapon. It's our brain trust, our support group, an
 
 First, I'm going to make a great first impression. I'm going to write an introduction post that is not just informative, but also personal and engaging. I'm going to share a bit about my story, my goals, and my challenges. I'm also going to include a photo of myself to make it more personal.
 
-Next, I'm going to become a "super-connector." I'm going to make it my mission to connect with at least three new people in the community every single week. I'm going to comment on their posts, I'm going to ask them thoughtful questions, and I'm going to look for opportunities to help them. Pro Tip: I always try to move my most valuable connections off of Facebook and onto a one-on-one video call. This is how you can turn a casual connection into a real professional relationship. Finally, I'm going to become a "giver." I'm going to share my best ideas, my most valuable resources, and my most honest feedback with the community. I know that the more I give, the more I'll get in return.
+Next, I'm going to become a "super-connector." I'm going to make it my mission to connect with at least three new people in the community every single week. I'm going to comment on their posts, I'm going to ask them thoughtful questions, and I'm going to look for opportunities to help them.
+> **Pro Tip:** I always try to move my most valuable connections off of Facebook and onto a one-on-one video call. This is how you can turn a casual connection into a real professional relationship.
+
+Finally, I'm going to become a "giver." I'm going to share my best ideas, my most valuable resources, and my most honest feedback with the community. I know that the more I give, the more I'll get in return.
 
 ### Common Pitfalls to Avoid
 - **Violating the community guidelines.** Our guidelines are in place to keep the community safe and valuable for everyone. Please make sure you have read and understood them.

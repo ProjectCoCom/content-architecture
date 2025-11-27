@@ -63,6 +63,8 @@ You are making progress when you see an increase in the social engagement and sh
 - **Total Time (for a mix of content per month):** 11-23 hours
 
 Building a supporting content network is an ongoing commitment that requires a different set of skills than creating educational content. It's about being a storyteller, a journalist, and a community builder.
+
+> **Note for CMOs and Team Leads:** Your supporting content network is your brand's personality. It's how you move from being a faceless corporation to a brand that people know, like, and trust. Empower your team to tell these stories, and you will build a much stronger and more resilient brand.
 ### Measuring Success
 You'll know your supporting content network is successful when you see a significant increase in your brand's "share of voice" in your industry. This is a measure of how often your brand is being talked about online compared to your competitors. You can track this using brand monitoring tools like Brand24 or Mention.
 
@@ -70,12 +72,14 @@ Another key success metric is the number of inbound links you are getting from o
 
 Ultimately, the clearest sign of success is when you start to see a thriving community forming around your brand. When people are regularly commenting on your content, sharing it with their networks, and engaging with you on social media, you'll know that you have built more than just a content library—you have built a brand that people care about.
 
+> **Perspective for Solo Consultants:** Your supporting content is how you build your personal brand. It's where you share your opinions, your stories, and your personality. This is what will make you stand out from all the other consultants who are just sharing the same generic advice. Don't be afraid to be yourself; it's your biggest competitive advantage.
+
 ### Deep Dive
-To take your supporting content network to the next level, create a "brand newsroom" on your website. This is a dedicated section of your site where you can publish all of your supporting content, including press releases, company announcements, and media mentions. This can be a valuable resource for journalists, partners, and potential customers who want to learn more about your company.
+To take your supporting content network to the next level, create a "brand newsroom" on your website. This is a dedicated section of your site where you can publish all of your supporting content, including press releases, company announcements, and media mentions. This can be a valuable resource for journalists, partners, and potential customers who want to learn more about your company. This is a powerful way to **control the information space** and to ensure that your core message is being accurately represented.
 
-You can also use your supporting content as a way to build relationships with key influencers in your industry. By featuring them in your content, you are not only providing value to your audience, but you are also building goodwill with people who can help to amplify your message.
+You can also use your supporting content as a way to build relationships with key influencers in your industry. By featuring them in your content, you are not only providing value to your audience, but you are also building goodwill with people who can help to amplify your message. This is a practical application of **incorporating multi-stakeholder perspectives** to enhance your credibility.
 
-Finally, think about how you can use your supporting content to support your other marketing and sales efforts. A great case study can be a powerful tool for your sales team. A compelling brand story can be a great addition to your email welcome series. By integrating your supporting content into your other channels, you can get more value out of it and create a more cohesive brand experience for your audience.
+Finally, think about how you can use your supporting content to support your other marketing and sales efforts. A great case study can be a powerful tool for your sales team. A compelling brand story can be a great addition to your email welcome series. By integrating your supporting content into your other channels, you can get more value out of it and create a more cohesive brand experience for your audience. This helps you to **leverage emotional and experiential content** across the entire customer journey.
 
 ### AI Collaboration
 Your AI agent can be a creative partner in developing your supporting content network. Here are three prompts to get you started:
@@ -87,7 +91,8 @@ Your AI agent can be a creative partner in developing your supporting content ne
 ### Your Action Steps: An Expert Walkthrough
 Our educational content is the foundation, but our supporting content is the soul. This is where we get to be human, to tell stories, and to build a real connection with our audience. We're going to create a vibrant and engaging content ecosystem that people will want to be a part of.
 
-First, I'm going to define our supporting content "shows." Just like a media company, we're going to have a few regular formats that our audience can come to expect. For example, we might have "Customer Spotlight," "Expert Q&A," and "The Weekly Pulse." For each show, I'll create a simple one-page description that outlines its purpose, format, and frequency. Pro Tip: Giving your content shows a branded name makes them feel more professional and memorable.
+First, I'm going to define our supporting content "shows." Just like a media company, we're going to have a few regular formats that our audience can come to expect. For example, we might have "Customer Spotlight," "Expert Q&A," and "The Weekly Pulse." For each show, I'll create a simple one-page description that outlines its purpose, format, and frequency.
+> **Pro Tip:** Giving your content shows a branded name makes them feel more professional and memorable. It turns a series of posts into an event that your audience can look forward to.
 
 Next, I'm going to build a system for sourcing this content. I'll create a shared document where our sales and customer success teams can submit potential case study candidates. I'll build a list of 50 industry experts that I want to interview. And I'll set up a Feedly account to track all of the latest industry news. This system will ensure that we always have a steady stream of ideas for our supporting content. Finally, I'll get to work creating the content, making sure that each piece is infused with our brand's unique personality and voice.
 

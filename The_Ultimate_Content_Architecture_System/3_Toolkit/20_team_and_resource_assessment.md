@@ -63,6 +63,8 @@ You are making progress when you have a clear and documented "resource plan" tha
 - **Total Time:** 6-12 hours
 
 This is a strategic planning exercise that should be done on an annual basis, or whenever you are making a significant change to your content strategy or your business goals.
+
+> **Note for CMOs and Team Leads:** This assessment is the foundation of your strategic plan. The outputs of this exercise will determine the scope and the ambition of your content roadmap. Be honest and realistic in your assessment, and be prepared to make a strong business case for the resources you need to be successful.
 ### Measuring Success
 You'll know your team and resource assessment is successful when you see a significant improvement in the "velocity" of your content creation. This is a measure of how quickly you can take a content idea from concept to publication. As you build a more capable and efficient team, you should see your content velocity increase.
 
@@ -70,12 +72,14 @@ Another key success metric is the "employee retention rate" of your content team
 
 Ultimately, the clearest sign of success is when your content team becomes a "talent magnet" for your company. When the best and the brightest content marketers in your industry are lining up to come and work for you, you'll know that you have built a truly world-class content marketing program.
 
+> **Perspective for Solo Consultants:** As a solo consultant, you are the team. This assessment is about being honest with yourself about your own strengths and weaknesses. Where do you excel? Where do you need help? This will help you to decide what to focus on, what to learn, and what to outsource.
+
 ### Deep Dive
-To take your team and resource assessment to the next level, create a "content marketing career path" for your team members. This is a document that outlines the different roles and responsibilities within your content team and the skills and experience that are required to move from one level to the next. This can be a powerful tool for attracting, retaining, and developing top talent.
+To take your team and resource assessment to the next level, create a "content marketing career path" for your team members. This is a document that outlines the different roles and responsibilities within your content team and the skills and experience that are required to move from one level to the next. This can be a powerful tool for attracting, retaining, and developing top talent. This is a key part of **committing to assist and prevent recurrence** of skills gaps on your team.
 
-You can also use your resource assessment as an opportunity to "insource" or "outsource" different parts of your content marketing program. For example, you might decide to bring your video production in-house to have more control over the quality, or you might decide to outsource your social media management to a specialized agency.
+You can also use your resource assessment as an opportunity to "insource" or "outsource" different parts of your content marketing program. For example, you might decide to bring your video production in-house to have more control over the quality, or you might decide to outsource your social media management to a specialized agency. This is a strategic decision that should be based on a clear-eyed assessment of your team's skills and your company's priorities. This is a form of **selective presentation of your point of view**, choosing to own the channels where your voice is strongest.
 
-Finally, consider creating a "content marketing center of excellence" within your company. This is a cross-functional team that is responsible for setting the standards, for sharing the best practices, and for providing the training and the resources that are needed for everyone in the company to create high-quality, on-brand content.
+Finally, consider creating a "content marketing center of excellence" within your company. This is a cross-functional team that is responsible for setting the standards, for sharing the best practices, and for providing the training and the resources that are needed for everyone in the company to create high-quality, on-brand content. This is a powerful way to **cement the narrative internally** and to ensure that your brand's voice is consistent across all channels.
 
 ### AI Collaboration
 Your AI agent can be a valuable assistant in your team and resource assessment process, helping you to identify skills gaps, to find resources, and to create a plan for success. Here are three prompts to get you started:
@@ -87,7 +91,8 @@ Your AI agent can be a valuable assistant in your team and resource assessment p
 ### Your Action Steps: An Expert Walkthrough
 A great content strategy is nothing without a great team to execute it. We're going to take a hard, honest look at our team, our budget, and our tools to make sure that we have the resources we need to win. We're not just going to build a content plan; we're going to build a content *program* that is staffed for success.
 
-First, I'm going to do a "talent review" of our entire content team. I'm going to have a one-on-one conversation with each team member about their skills, their passions, and their career goals. I'm going to use our "Team & Resource Assessment Worksheet" (Template 20.1) to create a detailed skills matrix. Pro Tip: I always ask my team members to rate themselves on a scale of 1 to 5 for each skill, and then I do my own rating. This can be a great way to start a productive conversation about their professional development.
+First, I'm going to do a "talent review" of our entire content team. I'm going to have a one-on-one conversation with each team member about their skills, their passions, and their career goals. I'm going to use our "Team & Resource Assessment Worksheet" (Template 20.1) to create a detailed skills matrix.
+> **Pro Tip:** I always ask my team members to rate themselves on a scale of 1 to 5 for each skill, and then I do my own rating. This can be a great way to start a productive conversation about their professional development and to identify areas where they might be underestimating their own abilities.
 
 Next, I'm going to do a deep dive into our content budget. I'm going to track every single dollar we are spending and I'm going to calculate our "cost per piece of content" and our "cost per lead." This will give us a clear understanding of the ROI of our content program. Finally, I'm going to take all of this information and I'm going to create our "Content Program Resource Plan." This will be our blueprint for how we are going to invest in our people, our tools, and our budget to build a world-class content marketing machine.
 

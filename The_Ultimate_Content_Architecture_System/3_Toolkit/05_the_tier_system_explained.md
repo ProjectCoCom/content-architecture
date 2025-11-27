@@ -59,6 +59,8 @@ You're making progress when you can look at any piece of content in your library
 - **Total Time:** 6-10 hours
 
 This is a foundational organizational task. The initial time investment is significant, but it will pay dividends in the form of a more strategic and effective content library.
+
+> **Note for CMOs and Team Leads:** A well-defined tier system is a powerful tool for resource planning. It allows you to strategically allocate your team's time and budget, ensuring you have a healthy mix of top-of-funnel content to attract a new audience and in-depth content to convert your best prospects.
 ### Measuring Success
 You'll know your tier system is working when you see a clear and measurable increase in audience engagement and a longer average session duration. This indicates that your audience is finding it easy and valuable to move between different tiers of your content. You can track this by setting up content grouping in your analytics platform and monitoring the flow of users between your tiers.
 
@@ -66,12 +68,14 @@ Another key success metric is an increase in the conversion rate of your mid- an
 
 Ultimately, success is when your audience starts to use the language of your tier system themselves. When you get feedback from a reader that says, "I started with your foundational content and I'm now working my way through your framework articles," you'll know that your system is not just an internal organizing principle, but a real and valuable part of your audience's experience.
 
+> **Perspective for Solo Consultants:** The tier system is your product line. Your Foundational content is your lead magnet, your Framework content is your core offering, and your Frontier content is your premium, high-ticket service. Thinking in tiers helps you to build a scalable and profitable consulting business.
+
 ### Deep Dive
-To take your tier system to the next level, create a visual map of your entire content architecture. This can be done using a mind mapping tool or a simple flowchart. This visual representation will help you to see the relationships between your different pieces of content and to identify new opportunities for creating connections and pathways.
+To take your tier system to the next level, create a visual map of your entire content architecture. This can be done using a mind mapping tool or a simple flowchart. This visual representation will help you to see the relationships between your different pieces of content and to identify new opportunities for creating connections and pathways. This is a form of **establishing a North Star narrative** for your content, ensuring every piece has a clear place and purpose.
 
 You can also create a content scoring system that is based on your tiers. For example, a user who consumes a piece of Tier 3 content might get a higher lead score than a user who only consumes Tier 1 content. This allows you to more accurately qualify your leads and to deliver more personalized follow-up communication.
 
-Finally, consider creating "capstone" content for each of your tiers. This could be a comprehensive guide, a webinar, or a certification course that brings together all of the key concepts from that tier. These capstone pieces can serve as powerful anchor assets in your content library and can be a great way to generate high-quality leads.
+Finally, consider creating "capstone" content for each of your tiers. This could be a comprehensive guide, a webinar, or a certification course that brings together all of the key concepts from that tier. These capstone pieces can serve as powerful anchor assets in your content library and can be a great way to generate high-quality leads. This practice helps to **cement the narrative internally** for your audience, giving them a clear and definitive resource for each stage of their learning.
 
 ### AI Collaboration
 Your AI agent can be a valuable assistant in implementing and managing your tier system. Here are three prompts to get you started:
@@ -83,7 +87,8 @@ Your AI agent can be a valuable assistant in implementing and managing your tier
 ### Your Action Steps: An Expert Walkthrough
 Okay, let's bring some order to this chaos. A flat content library is a dead content library. We're going to build a dynamic, multi-layered ecosystem that serves our audience at every stage of their journey. This is how we build a real educational resource, not just a collection of blog posts.
 
-First, I'm opening the "Content Tier Definition Worksheet" (Template 5.1). I'm going to define three tiers. I'll call them "Foundational," "Framework," and "Frontier." I'll write a clear, concise definition for each one, outlining who it's for and what it's supposed to do. Pro Tip: I like to give my tiers memorable names that align with our brand. It helps the team to think more strategically about the content they're creating.
+First, I'm opening the "Content Tier Definition Worksheet" (Template 5.1). I'm going to define three tiers. I'll call them "Foundational," "Framework," and "Frontier." I'll write a clear, concise definition for each one, outlining who it's for and what it's supposed to do.
+> **Pro Tip:** I like to give my tiers memorable names that align with our brand. It helps the team to think more strategically about the content they're creating and reinforces your unique methodology.
 
 Next, the audit. I'll get a list of all our content URLs and put them in a spreadsheet. Then, I'll go through them one by one and assign each piece to one of my new tiers. This is a bit of a grind, but it's the most important step. It will give me a brutally honest assessment of where we're strong and where we're weak. Finally, I'll turn that analysis into a plan. I'll create a list of new content ideas that are specifically designed to fill the biggest gaps in our tiers. This is how we'll build a complete and balanced content architecture.
 

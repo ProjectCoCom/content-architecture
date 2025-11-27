@@ -68,6 +68,8 @@ You are making progress when your sales team starts to report that they are havi
 - **Total Time (for a 4-stakeholder committee with 2 pieces each):** 33-80 hours
 
 This is a highly intensive strategy that requires a close alignment between your marketing and sales teams. However, it can be one of the most effective ways to win large, complex deals.
+
+> **Note for CMOs and Team Leads:** This is the intersection of content strategy and sales strategy. Success here requires a deep partnership with your sales leader. The stakeholder maps and content you create will be the foundation of your sales enablement program and a key driver of sales cycle velocity.
 ### Measuring Success
 You'll know your stakeholder-focused content is successful when you start to see an increase in the number of "multi-threaded" deals in your sales pipeline. This means that your sales team is engaged with multiple stakeholders within a single account. This is a sign that your content is successfully reaching and resonating with the entire buying committee.
 
@@ -75,12 +77,14 @@ Another key success metric is the feedback you get from your sales team. When yo
 
 Ultimately, the clearest sign of success is when your internal champions start to use your content to sell on your behalf. When a prospect forwards your ROI calculator to their CFO or your technical white paper to their IT director, you'll know that you have successfully armed them with the tools they need to build consensus and to win the deal. This is the holy grail of stakeholder-focused content.
 
+> **Perspective for Solo Consultants:** Even as a solo consultant, you are likely selling to a buying committee of one or two people. Understanding the different "hats" that your client wears (e.g., the "visionary" hat, the "budget" hat) can help you to create more persuasive proposals and to close more deals.
+
 ### Deep Dive
-To take your stakeholder-focused content to the next level, create a "Battle Card" for your sales team for each key stakeholder. This is a one-page document that summarizes the key goals, challenges, and objections of that stakeholder, and provides a list of your most relevant content assets for them. This can be an incredibly valuable tool for your sales team.
+To take your stakeholder-focused content to the next level, create a "Battle Card" for your sales team for each key stakeholder. This is a one-page document that summarizes the key goals, challenges, and objections of that stakeholder, and provides a list of your most relevant content assets for them. This can be an incredibly valuable tool for your sales team. This is a form of **cementing the narrative internally**, ensuring your sales team is perfectly aligned with your content strategy.
 
-You can also use your stakeholder-focused content as the foundation for an account-based marketing (ABM) program. By creating highly targeted content for the specific stakeholders within your target accounts, you can create a personalized and highly effective marketing campaign that is aligned with your sales team's efforts.
+You can also use your stakeholder-focused content as the foundation for an account-based marketing (ABM) program. By creating highly targeted content for the specific stakeholders within your target accounts, you can create a personalized and highly effective marketing campaign that is aligned with your sales team's efforts. This allows you to **selectively present your point of view** to the people who matter most.
 
-Finally, consider creating a "self-service" content portal for your prospects. This would be a section of your website where a prospect could identify their role and then get a curated list of your most relevant content for them. This can be a great way to improve the buyer experience and to help your prospects to find the information they need more quickly and easily.
+Finally, consider creating a "self-service" content portal for your prospects. This would be a section of your website where a prospect could identify their role and then get a curated list of your most relevant content for them. This can be a great way to improve the buyer experience and to help your prospects to find the information they need more quickly and easily. This is a powerful way to **conform to audience expectations** and to provide a truly helpful, people-first experience.
 
 ### AI Collaboration
 Your AI agent can be a valuable partner in creating and tailoring your stakeholder-focused content. Here are three prompts to get you started:
@@ -92,9 +96,10 @@ Your AI agent can be a valuable partner in creating and tailoring your stakehold
 ### Your Action Steps: An Expert Walkthrough
 We're not just selling to a person; we're selling to a team of people. And each person on that team has their own agenda, their own fears, and their own definition of success. Our job is to create content that speaks to each of them, to build a chorus of "yes" within our target accounts. This is how we win the big deals.
 
-First, I'm going to get our entire sales team in a room and we're going to map out the buying committee on a whiteboard. We're going to identify every single stakeholder who has a say in a deal. For each one, we're going to create a detailed profile. Pro Tip: I always create a "day in the life" narrative for each stakeholder persona. This helps our content team to really empathize with their challenges and to create content that feels authentic.
+First, I'm going to get our entire sales team in a room and we're going to map out the buying committee on a whiteboard. We're going to identify every single stakeholder who has a say in a deal. For each one, we're going to create a detailed profile.
+> **Pro Tip:** I always create a "day in the life" narrative for each stakeholder persona. This helps our content team to really empathize with their challenges and to create content that feels authentic and genuinely helpful.
 
-Next, I'm going to turn that map into a content plan. I'll create a spreadsheet with a row for each stakeholder and a column for each stage of the buying process. Then, I'll work with my team to brainstorm a specific piece of content for each cell in that spreadsheet. This will give us a comprehensive and highly strategic plan for our stakeholder-focused content. Finally, we'll get to work creating the content, making sure that each piece is perfectly tailored to its intended audience. This is how we'll turn our content library into a powerful sales-enablement machine.
+Next, I'm going to turn that map into a content plan using the "Stakeholder Content Planner" (Template 11.2). I'll create a row for each stakeholder and a column for each stage of the buying process. Then, I'll work with my team to brainstorm a specific piece of content for each cell in that spreadsheet. This will give us a comprehensive and highly strategic plan for our stakeholder-focused content. Finally, we'll get to work creating the content, making sure that each piece is perfectly tailored to its intended audience. This is how we'll turn our content library into a powerful sales-enablement machine.
 
 ### Common Pitfalls to Avoid
 - **Creating stakeholder content that is just a slightly different version of the same thing.** Each piece of stakeholder content should have a unique angle and should provide unique value for that specific role. Don't just change the title and call it a day.
