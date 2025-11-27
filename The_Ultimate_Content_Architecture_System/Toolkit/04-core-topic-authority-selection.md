@@ -7,17 +7,22 @@ Core topic and authority selection is the strategic decision about what specific
 You can't be an authority on everything. Brands that try to cover their entire industry superficially never become known for anything. The paradox of content authority is that the narrower and deeper you go initially, the broader your influence becomes over time. Master one thing first, then expand.
 
 ### Your Action Steps
-The goal of this step is to make a strategic and data-informed decision about the specific niche where you will build your content authority. Rather than trying to be known for everything, you will select a focused topic where you have a unique perspective and a clear path to becoming the go-to resource. You will use the "Core Topic Selection Worksheet" to move from a broad list of possibilities to a single, well-defined core topic, and then develop a proprietary framework that will serve as the foundation of your content empire.
+As an expert strategist, I know that choosing a core topic is the single most important decision we will make. This decision will be the foundation of our entire content strategy. My process for making this decision is both creative and analytical. I start by facilitating a wide-ranging brainstorming session with the key stakeholders to generate a long list of potential topics. The goal here is to explore all the possibilities, even the ones that seem a little bit out there.
+
+Once we have a big list, we shift into a more analytical mode. I lead the team through a systematic scoring process, using the "Core Topic Selection Worksheet" to evaluate each topic against a set of objective criteria. This is where the magic happens. The scoring process removes the emotion and personal biases from the decision and allows the best, most strategic option to rise to the top. It is a data-driven way to make a decision that is often treated as a purely creative exercise.
+
+The final step is to take the winning topic and build a unique and proprietary framework around it. This is where we define our unique point of view and create a system that we can teach to our audience. We give it a memorable name, outline its core principles, and create a simple visual that we can use in our content. This framework is what will elevate our content from a collection of helpful articles to a cohesive and defensible authority platform.
 
 **Task List:**
-- [ ] Open the "Core Topic Selection Worksheet" (Template 4.1).
+- [ ] Open the "Core Topic Selection Worksheet" (Template 4.1). *Pro Tip: When you are scoring the "Passion" criterion, be brutally honest. You are going to be creating a lot of content on this topic, so you need to choose something that your team is genuinely excited about.*
 - [ ] Brainstorm a list of 10-15 potential core topics.
-- [ ] Score each topic against the five evaluation criteria: Expertise, Audience Demand, Business Alignment, Competition, and Passion.
+- [ ] For each topic, score it from 1-5 on Expertise, Audience Demand, Business Alignment, Competition, and Passion.
+- [ ] Calculate the total score for each topic.
 - [ ] Select your highest-scoring topic as your primary core topic.
 - [ ] Write a one-paragraph authority positioning statement for your chosen topic.
-- [ ] Give your unique approach or methodology a memorable name.
-- [ ] Outline the 3-5 core principles of your proprietary framework.
+- [ ] Define a name for your proprietary framework or methodology. *Pro Tip: A good name is memorable, descriptive, and hints at the benefit. Think "The 7 Habits of Highly Effective People."*
+- [ ] Outline the 3-5 core principles or phases of your framework.
 - [ ] Create a simple visual representation of your framework.
-- [ ] Map out your topic expansion strategy by identifying 3-5 supporting topics and 2-3 future expansion topics.
 
-You will know this step is successful when you can confidently complete the sentence: "When people think about [your specific topic], they think of us first because of [your unique approach]." Success is having a core topic that is not only strategic but also energizes your team, and a clear proprietary framework that serves as a filter for all future content decisions, ensuring every piece you create builds your authority in a focused and defensible way.
+### Measuring Success
+You will know this step is complete when you have a clearly defined core topic, a name for your proprietary framework, and a simple visual representation of that framework. A key qualitative measure of success is when your team can confidently and consistently articulate what your brand is about and what makes your approach unique and valuable. This clarity will serve as the guiding star for all future content creation. Quantitatively, you can begin to measure success by tracking how many of your new content pieces are directly related to your core topic and proprietary framework. This number should be close to 100% in the beginning, as you work to build your foundational authority.
