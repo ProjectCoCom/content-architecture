@@ -1,4 +1,4 @@
-# 1. Defining Your Content Mission
+# Defining Your Content Mission
 
 ### What This Is
 Your content mission is the foundational statement that defines why your content exists, who it serves, and what transformation it provides. It is not a catchy tagline or a piece of marketing copy. Instead, it is a strategic north star that guides every single content decision you and your team make. This statement acts as an internal compass, ensuring that every article, video, and social media post is created with a clear and unified purpose, reinforcing your brand's authority and focus.
@@ -14,5 +14,7 @@ This strategic clarity is essential for long term success. When your entire team
 
 Furthermore, a public-facing content mission can be a powerful tool for attracting the right audience. It signals what you are about, drawing in readers who share your interests and values while repelling those who are not a good fit. This self-selection process helps you build a more engaged and loyal community over time. It transforms your content from a simple marketing tactic into a true platform for leadership and influence in your industry, which is the ultimate goal of building authority.
 
-### Your Action Step
-Your primary task is to draft a clear and concise content mission statement that will serve as the strategic filter for all future content decisions. This involves a deep reflection on your brand's purpose and your audience's needs, articulating the problems your content solves, the specific audience it serves, and the tangible outcomes they can expect. This clarity is the bedrock of a successful content strategy, ensuring every piece of content you create is both purposeful and effective. Use this statement to test the alignment of potential content ideas and ensure they support your overarching business goals.
+
+
+### Your Action Steps
+To get started, open the "Content Mission Worksheet" (Template 1.1) and answer the three core questions about the problems you solve, the audience you serve, and the transformation you provide. Use your answers to write a two to three sentence first draft of your mission statement. Once you have a draft, validate it by checking that it directly supports two or three of your company's main business objectives. This quick exercise will give you a strong starting point for a mission that is both aspirational and strategically grounded.
