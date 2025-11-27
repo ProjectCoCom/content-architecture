@@ -28,3 +28,20 @@ The **Toolkit** tier is the complete, "full hand-holding" package. It provides n
     *   **Interactive Templates**: CSV versions of all spreadsheet-based templates for easy use in Google Sheets, Excel, or Airtable.
     *   **Video Source Documents**: Detailed prompts and directives for each of the 24 sections, designed to be used with NoteBookLM to generate comprehensive video walkthroughs.
 *   **Who It's For**: Marketing agencies, consultants, and teams who need a complete, turnkey solution for executing a sophisticated content strategy for themselves or their clients.
+
+## Content Management
+
+All content for the three tiers is generated from a single source of truth: the `source.md` file. This file uses special comment tags to delineate which content belongs to which tier.
+
+### How to Update Content
+
+To update the content for any of the tiers, follow these steps:
+
+1.  **Edit the `source.md` file:** Make your changes directly in the `source.md` file. Use the existing comment tags (`<!-- TIER_SHARED_START -->`, `<!-- SYSTEM_ONLY_START -->`, etc.) to specify which tiers your content should appear in.
+2.  **Run the generation script:** Once you have saved your changes to `source.md`, run the following command from the root of the repository to regenerate all the deliverable files:
+
+    ```bash
+    python3 generate_files.py
+    ```
+
+This will update all 72 markdown files in the `1_Blueprint`, `2_System`, and `3_Toolkit` directories with your changes.
