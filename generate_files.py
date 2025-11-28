@@ -37,6 +37,10 @@ def get_blueprint_content(section_content):
     tier_shared_match = re.search(r'<!-- TIER_SHARED_START -->(.*?)<!-- TIER_SHARED_END -->', section_content, re.DOTALL)
     tier_shared_content = tier_shared_match.group(1).strip() if tier_shared_match else ''
 
+    # Blueprint only content
+    blueprint_only_match = re.search(r'<!-- BLUEPRINT_ONLY_START -->(.*?)<!-- BLUEPRINT_ONLY_END -->', section_content, re.DOTALL)
+    blueprint_only_content = blueprint_only_match.group(1).strip() if blueprint_only_match else ''
+
     # Blueprint action content
     blueprint_action_match = re.search(r'<!-- BLUEPRINT_ACTION_START -->(.*?)<!-- BLUEPRINT_ACTION_END -->', section_content, re.DOTALL)
     blueprint_action_content = blueprint_action_match.group(1).strip() if blueprint_action_match else ''
@@ -45,20 +49,20 @@ def get_blueprint_content(section_content):
     what_this_is_match = re.search(r'### What This Is\n(.*?)\n### Why This Matters', section_content, re.DOTALL)
     what_this_is_content = what_this_is_match.group(1).strip() if what_this_is_match else ''
 
-    why_this_matters_match = re.search(r'### Why This Matters\n(.*?)(?=\n###)', section_content, re.DOTALL)
+    why_this_matters_match = re.search(r'### Why This Matters\n(.*?)(?=\n###|\n<!--)', section_content, re.DOTALL)
     why_this_matters_content = why_this_matters_match.group(1).strip() if why_this_matters_match else ''
 
-    full_content = f"### What This Is\n{what_this_is_content}\n\n### Why This Matters\n{why_this_matters_content}\n\n{blueprint_action_content}"
+    full_content = f"### What This Is\n{what_this_is_content}\n\n### Why This Matters\n{why_this_matters_content}\n\n{blueprint_only_content}\n\n{blueprint_action_content}"
     return clean_content(full_content)
 
-def get_system_content(section_content):
+def get_system_content(section_content, include_action_steps=True):
     # Tier shared content
     tier_shared_match = re.search(r'<!-- TIER_SHARED_START -->(.*?)<!-- TIER_SHARED_END -->', section_content, re.DOTALL)
     tier_shared_content = tier_shared_match.group(1).strip() if tier_shared_match else ''
 
     # System only content
-    system_only_match = re.search(r'<!-- SYSTEM_ONLY_START -->(.*?)<!-- SYSTEM_ONLY_END -->', section_content, re.DOTALL)
-    system_only_content = system_only_match.group(1).strip() if system_only_match else ''
+    system_only_matches = re.findall(r'<!-- SYSTEM_ONLY_START -->(.*?)<!-- SYSTEM_ONLY_END -->', section_content, re.DOTALL)
+    system_only_content = "\n".join(match.strip() for match in system_only_matches)
 
     # System action content
     system_action_match = re.search(r'<!-- SYSTEM_ACTION_START -->(.*?)<!-- SYSTEM_ACTION_END -->', section_content, re.DOTALL)
@@ -72,20 +76,25 @@ def get_system_content(section_content):
     what_this_is_match = re.search(r'### What This Is\n(.*?)\n### Why This Matters', section_content, re.DOTALL)
     what_this_is_content = what_this_is_match.group(1).strip() if what_this_is_match else ''
 
-    why_this_matters_match = re.search(r'### Why This Matters\n(.*?)(?=\n###)', section_content, re.DOTALL)
+    why_this_matters_match = re.search(r'### Why This Matters\n(.*?)(?=\n###|\n<!--)', section_content, re.DOTALL)
     why_this_matters_content = why_this_matters_match.group(1).strip() if why_this_matters_match else ''
 
-    full_content = f"### What This Is\n{what_this_is_content}\n\n### Why This Matters\n{why_this_matters_content}\n\n{tier_shared_content}\n\n{system_only_content}\n\n{system_action_content}\n\n{system_shared_content}"
+    parts = [
+        f"### What This Is\n{what_this_is_content}",
+        f"### Why This Matters\n{why_this_matters_content}",
+        tier_shared_content,
+        system_only_content,
+    ]
+    if include_action_steps and system_action_content:
+        parts.append(system_action_content)
+    if system_shared_content:
+        parts.append(system_shared_content)
+
+    full_content = "\n\n".join(part for part in parts if part)
     return clean_content(full_content)
 
 def get_toolkit_content(section_content):
-    # Tier shared content
-    tier_shared_matches = re.findall(r'<!-- TIER_SHARED_START -->(.*?)<!-- TIER_SHARED_END -->', section_content, re.DOTALL)
-    tier_shared_content = "\n".join(match.strip() for match in tier_shared_matches)
-
-    # System only content
-    system_only_matches = re.findall(r'<!-- SYSTEM_ONLY_START -->(.*?)<!-- SYSTEM_ONLY_END -->', section_content, re.DOTALL)
-    system_only_content = "\n".join(match.strip() for match in system_only_matches)
+    system_content_base = get_system_content(section_content, include_action_steps=False)
 
     # Toolkit only content
     toolkit_only_matches = re.findall(r'<!-- TOOLKIT_ONLY_START -->(.*?)<!-- TOOLKIT_ONLY_END -->', section_content, re.DOTALL)
@@ -95,18 +104,13 @@ def get_toolkit_content(section_content):
     toolkit_action_match = re.search(r'<!-- TOOLKIT_ACTION_START -->(.*?)<!-- TOOLKIT_ACTION_END -->', section_content, re.DOTALL)
     toolkit_action_content = toolkit_action_match.group(1).strip() if toolkit_action_match else ''
 
-    # System shared content
-    system_shared_matches = re.findall(r'<!-- SYSTEM_SHARED_START -->(.*?)<!-- SYSTEM_SHARED_END -->', section_content, re.DOTALL)
-    system_shared_content = "\n".join(match.strip() for match in system_shared_matches)
+    parts = [
+        system_content_base,
+        toolkit_only_content,
+        toolkit_action_content,
+    ]
 
-    # Extract What This Is and Why This Matters
-    what_this_is_match = re.search(r'### What This Is\n(.*?)\n### Why This Matters', section_content, re.DOTALL)
-    what_this_is_content = what_this_is_match.group(1).strip() if what_this_is_match else ''
-
-    why_this_matters_match = re.search(r'### Why This Matters\n(.*?)(?=\n###)', section_content, re.DOTALL)
-    why_this_matters_content = why_this_matters_match.group(1).strip() if why_this_matters_match else ''
-
-    full_content = f"### What This Is\n{what_this_is_content}\n\n### Why This Matters\n{why_this_matters_content}\n\n{tier_shared_content}\n\n{system_only_content}\n\n{toolkit_only_content}\n\n{toolkit_action_content}\n\n{system_shared_content}"
+    full_content = "\n\n".join(part for part in parts if part)
     return clean_content(full_content)
 
 def generate_files(sections):
@@ -146,7 +150,7 @@ def generate_files(sections):
             filepath = os.path.join(base_path, tier, filename)
 
             # Prepend the main title to the content
-            final_content = f"# {title}\n\n{tier_contents[tier]}"
+            final_content = f"# {title}\n\n{tier_contents[tier]}\n"
 
             with open(filepath, 'w') as f:
                 f.write(final_content)
