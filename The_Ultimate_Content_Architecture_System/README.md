@@ -26,7 +26,7 @@ The **Toolkit** tier is the complete, "full hand-holding" package. It provides n
 
 *   **What's Included**: Includes everything from the System tier, but enhances the "Your Action Steps" for each section into a comprehensive, three-part structure: a descriptive paragraph, a detailed task-list, and a success-metric conclusion paragraph. It also includes:
     *   **Interactive Templates**: CSV versions of all spreadsheet-based templates for easy use in Google Sheets, Excel, or Airtable.
-    *   **Video Source Documents**: Detailed prompts and directives for each of the 24 sections, designed to be used with NoteBookLM to generate comprehensive video walkthroughs.
+    *   **Videos**: Detailed video source documents act as prompts and directives for each of the 24 sections, designed to be used with NoteBookLM to generate comprehensive video overviews of the content. The source documents are not included, but the videos are.
 *   **Who It's For**: Marketing agencies, consultants, and teams who need a complete, turnkey solution for executing a sophisticated content strategy for themselves or their clients.
 
 ## Content Management
