@@ -14,7 +14,15 @@ This strategic clarity is essential for long term success. When your entire team
 
 Furthermore, a public-facing content mission can be a powerful tool for attracting the right audience. It signals what you are about, drawing in readers who share your interests and values while repelling those who are not a good fit. This self-selection process helps you build a more engaged and loyal community over time. It transforms your content from a simple marketing tactic into a true platform for leadership and influence in your industry, which is the ultimate goal of building authority.
 
+### Key Questions to Answer
+- Does our content mission statement clearly define who we are helping and what problem we are solving for them?
+- Is the mission statement aspirational yet achievable? Does it reflect our unique perspective?
+- Can every member of our team use this mission statement as a filter to make day-to-day content decisions?
 
+### Common Oversights
+- **Making it too generic.** A mission to "create high-quality content" is not a mission. It's a given. Your mission needs to be specific enough to provide real guidance.
+- **Confusing it with a marketing tagline.** Your content mission is an internal strategic tool, not a public-facing slogan. It should be clear and direct, not clever.
+- **Setting it in stone.** Your content mission should be a living document that you revisit and refine as your business and your audience evolve.
 
 ### Your Action Steps
 To get started, open the "Content Mission Worksheet" (Template 1.1) and answer the three core questions about the problems you solve, the audience you serve, and the transformation you provide. Use your answers to write a two to three sentence first draft of your mission statement. Once you have a draft, validate it by checking that it directly supports two or three of your company's main business objectives. This quick exercise will give you a strong starting point for a mission that is both aspirational and strategically grounded.

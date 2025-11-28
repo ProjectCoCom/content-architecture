@@ -14,7 +14,15 @@ This is also a powerful learning environment. You will have the opportunity to l
 
 Furthermore, the Facebook community is a great place to build your professional network. You will have the opportunity to connect with a diverse group of content marketers from a wide variety of industries and backgrounds. These connections can be a valuable resource for your career for years to come.
 
+### Key Questions to Answer
+- Are we actively participating in the community and contributing to the conversation?
+- Are we using the community as a resource to get feedback on our ideas and to get help with our challenges?
+- Are we building a valuable professional network through our participation in the community?
 
+### Common Oversights
+- **Being a "lurker."** You will get much more out of the community if you are an active participant, not just a passive observer.
+- **Forgetting to give back.** The community is a two-way street. Make sure you are not just taking, but also giving.
+- **Violating the community guidelines.** The guidelines are there to keep the community safe and valuable for everyone. Make sure you have read and understood them.
 
 ### Your Action Steps
 If you haven't already, use your unique access link to join the private Facebook community. Once you have been approved, write a short introduction post to say hello to the other members. Then, find one other post in the community that you find interesting and leave a thoughtful comment or a question. This is the first step in becoming an active and engaged member of the community.

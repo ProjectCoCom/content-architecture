@@ -14,8 +14,6 @@ This is also a powerful learning environment. You will have the opportunity to l
 
 Furthermore, the Facebook community is a great place to build your professional network. You will have the opportunity to connect with a diverse group of content marketers from a wide variety of industries and backgrounds. These connections can be a valuable resource for your career for years to come.
 
-
-
 ### How This Works in Practice
 Getting value out of the Facebook community is a simple matter of joining, introducing yourself, and then actively participating.
 
@@ -41,6 +39,12 @@ To join the Facebook community, you will need a Facebook account and the unique 
 
 ### Measuring Progress
 You are making progress when you feel like you are a part of the community. You should know the names of some of the other members, you should be comfortable asking for help, and you should feel a sense of connection to the group. Another key indicator is when you start to get as much value from the community as you do from the core content of this system. This is a sign that you are fully leveraging all of the resources that are available to you.
+### The 'Why' Behind the 'How'
+The Facebook community is your secret weapon for accelerating your learning and for building a powerful professional network. By actively participating in the community, you can get real-world feedback on your ideas, you can get support with your challenges, and you can learn from the experiences of your peers. This can be an invaluable resource on your journey to building a world-class content program.
+
+### Resource Spotlight
+- **Tool:** The private Facebook community itself is the primary resource for this section.
+- **Further Reading:** "Show Your Work!" by Austin Kleon. This is a great guide to the power of sharing your process and of being a generous and active member of a creative community.
 
 ### Your Action Steps
 
