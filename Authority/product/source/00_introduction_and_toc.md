@@ -1,6 +1,6 @@
-# The Authority Gateway: A Comprehensive Guide to Building Your Brand with Content
+# The Authority Blueprint: Increase sales and brand awareness through authoritative content.
 
-_This document is the single source of truth for the new gateway product. It will be expanded to include all 24 modules, enriched with AI insights, modern tooling, and actionable strategies._
+This small e-book includes 44 modules, enriched with insights, modern tooling, and actionable strategies, to help you increase traffic and conversions via exceptional and focused content.
 
 ## The Big Picture: Your Brand Is Your Authority
 
