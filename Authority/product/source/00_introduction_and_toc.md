@@ -1,6 +1,6 @@
 # The Authority Blueprint: Increase sales and brand awareness through authoritative content.
 
-This small e-book includes 44 modules, enriched with insights, modern tooling, and actionable strategies, to help you increase traffic and conversions via exceptional and focused content.
+This small guide includes 44 modules, enriched with insights, modern tooling, and actionable strategies, to help you increase traffic and conversions via exceptional and focused content.
 
 ## Your Brand Is Your Authority
 
