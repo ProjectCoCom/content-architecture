@@ -2,7 +2,7 @@
 
 This small e-book includes 44 modules, enriched with insights, modern tooling, and actionable strategies, to help you increase traffic and conversions via exceptional and focused content.
 
-## The Big Picture: Your Brand Is Your Authority
+## Your Brand Is Your Authority
 
 In today's crowded market, attention is the new currency. But attention alone isn't enough. You need trust. You need credibility. You need authority. Authoritative content is what separates fleeting brands from lasting legacies. It's the difference between being a voice in the noise and being the one people listen to.
 
